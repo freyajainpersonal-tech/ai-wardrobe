@@ -5,4 +5,4 @@ Pillow
 requests
 gradio_client
 huggingface_hub
-google-genai
+google-genai>=1.0.0
